@@ -13,3 +13,19 @@ D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\Pr
 D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.genruntimeconfig.cache
 D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\ref\PruebasILaplace.dll
 D:\Proyectos\UNIDEP\Ecuaciones diferenciales\PruebasILaplace\obj\Debug\net9.0\PruebasI.C3070EE8.Up2Date
+C:\Users\guada\LaplaceED2026\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.exe
+C:\Users\guada\LaplaceED2026\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.deps.json
+C:\Users\guada\LaplaceED2026\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.runtimeconfig.json
+C:\Users\guada\LaplaceED2026\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.dll
+C:\Users\guada\LaplaceED2026\PruebasILaplace\bin\Debug\net9.0\PruebasILaplace.pdb
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.AssemblyInfoInputs.cache
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.AssemblyInfo.cs
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.csproj.CoreCompileInputs.cache
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.sourcelink.json
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.dll
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\refint\PruebasILaplace.dll
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.pdb
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasILaplace.genruntimeconfig.cache
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\ref\PruebasILaplace.dll
+C:\Users\guada\LaplaceED2026\PruebasILaplace\obj\Debug\net9.0\PruebasI.C3070EE8.Up2Date

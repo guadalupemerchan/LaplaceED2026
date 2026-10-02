@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "McmLVv0Okl0=",
+  "dgSpecHash": "Zz7P1gODwmk=",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\guada\\LaplaceED2026\\PruebasILaplace\\PruebasILaplace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guada\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.20\\microsoft.windowsdesktop.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\guada\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.20\\microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\guada\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.20\\microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\guada\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.20\\microsoft.netcore.app.host.win-x64.9.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

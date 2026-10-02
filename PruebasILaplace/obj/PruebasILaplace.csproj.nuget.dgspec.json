@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj": {}
+    "C:\\Users\\guada\\LaplaceED2026\\PruebasILaplace\\PruebasILaplace.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj": {
+    "C:\\Users\\guada\\LaplaceED2026\\PruebasILaplace\\PruebasILaplace.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj",
+        "projectUniqueName": "C:\\Users\\guada\\LaplaceED2026\\PruebasILaplace\\PruebasILaplace.csproj",
         "projectName": "PruebasILaplace",
-        "projectPath": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\PruebasILaplace.csproj",
-        "packagesPath": "C:\\Users\\salaz\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\UNIDEP\\Ecuaciones diferenciales\\PruebasILaplace\\obj\\",
+        "projectPath": "C:\\Users\\guada\\LaplaceED2026\\PruebasILaplace\\PruebasILaplace.csproj",
+        "packagesPath": "C:\\Users\\guada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guada\\LaplaceED2026\\PruebasILaplace\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\salaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\guada\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,6 +25,7 @@
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -62,6 +63,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.20, 9.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.20, 9.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
